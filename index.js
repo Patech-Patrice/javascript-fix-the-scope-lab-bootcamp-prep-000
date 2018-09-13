@@ -10,7 +10,7 @@ function yourAnimal() {
 }
 
 
-function add2() {
+function add2(n) {
  const add2 = ('n + 2');
 }
 
