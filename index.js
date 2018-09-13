@@ -11,7 +11,7 @@ function yourAnimal() {
 
 
 function add2() {
- const add2 = ('n');
+ const add2 = ('n + 2');
 }
 
 var funkyFunction = function() {
