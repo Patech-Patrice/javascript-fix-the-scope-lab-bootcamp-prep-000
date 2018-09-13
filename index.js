@@ -8,9 +8,9 @@ function yourAnimal() {
     var animal = 'cat'
   return animal
 }
-var add2
+var add2= 'n + 2';
+
 function add2(n) {
-    var add2=(n+'2');
   const two = ('2');
 }
 
